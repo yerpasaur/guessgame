@@ -1,4 +1,4 @@
 guessgame
 =========
 
-guessing game
+A simple guessing game. Type in the city to continue.
